@@ -1,1 +1,6 @@
 C:\Users\Student\Documents\GitHub\Last-Pair-of-Duplicates\LastPairOfDuplicates\bin\Debug\LastPairOfDuplicates.exe.config
+C:\Users\Student\Documents\GitHub\Last-Pair-of-Duplicates\LastPairOfDuplicates\bin\Debug\LastPairOfDuplicates.exe
+C:\Users\Student\Documents\GitHub\Last-Pair-of-Duplicates\LastPairOfDuplicates\bin\Debug\LastPairOfDuplicates.pdb
+C:\Users\Student\Documents\GitHub\Last-Pair-of-Duplicates\LastPairOfDuplicates\obj\Debug\LastPairOfDuplicates.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Last-Pair-of-Duplicates\LastPairOfDuplicates\obj\Debug\LastPairOfDuplicates.exe
+C:\Users\Student\Documents\GitHub\Last-Pair-of-Duplicates\LastPairOfDuplicates\obj\Debug\LastPairOfDuplicates.pdb
