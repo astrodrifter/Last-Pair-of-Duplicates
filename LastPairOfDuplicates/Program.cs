@@ -19,7 +19,12 @@ namespace LastPairOfDuplicates {
 
         }
         public static void DisplayResult(int index) {
-            Console.WriteLine(index);
+            if(index == 0) {
+                index = -1;
+                Console.WriteLine(index);
+            } else {
+                Console.WriteLine(index);
+            }
             Console.ReadKey();
         }
     }
